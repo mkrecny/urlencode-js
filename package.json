@@ -1,0 +1,17 @@
+{
+  "name": "urlencode-js",
+  "version": "",
+  "description": "",
+  "keywords": [],
+  "author": "mkrecny <mkrecny@gmail.com> http://twitter.com/mkrecny",
+  "contributers": [],
+  "licenses": [{"type": "MIT"}],
+  "repositories": [{
+      "type": "git",
+      "url": "git://github.com/mkrecny/urlencode-js.git" 
+  }],
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": [],
+  "main": "./lib/urlencode-js.js"
+}
