@@ -9,7 +9,7 @@
 # Usage
 
 ```javascript
-  var url = require('./path/to/urlencode-js/')
+  var url = require('urlencode-js')
 	var demo = url.UrlEncode();
 	var obj = {
 	  k1:{k11:11, k12:true},
